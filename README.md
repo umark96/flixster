@@ -2,7 +2,24 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+<img src="http://g.recordit.co/UUxbwc9oRP.gif" width=250><br>
+
+### Notes
+For Part 2, I was able to understand a lot more of how Swift works and Xcode as well simply through my own research and having the ability to revisit what was done in Part 1 last week. One of the biggest challenge I faced this week was keeping track of all my views and where everything aligned properly. There were a couple of instances where I was trying to connect a Collection View in the wrong swift file. I noticed that as more was being added to the app, it was getting more complicated to keep track of all the views. With more practice and understanding of the common errors, it will likely get easier!
 
 ---
 
